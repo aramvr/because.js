@@ -1,2 +1,2 @@
 # because.js
-WIP
+WIP: Because That JS
